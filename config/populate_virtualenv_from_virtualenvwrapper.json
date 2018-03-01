@@ -1,0 +1,4 @@
+{
+    "env_variable": "WORKON_HOME",
+    "virtualenv_table": "virtualenv"
+}

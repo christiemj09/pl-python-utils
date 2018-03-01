@@ -1,1 +1,5 @@
 *~
+creds
+.creds
+*.pyc
+__pycache__
